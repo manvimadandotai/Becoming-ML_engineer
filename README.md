@@ -11,3 +11,5 @@ Statistical Learning : [An Introduction to Statistical Learning](http://faculty.
 Machine Learning 
 * Course: [Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
 * Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Machine_Learning-Stanford-)
+* Certificate : [Machine Learning - Manvi Madan](https://www.coursera.org/account/accomplishments/records/D3BM9EL7TGT5)
+* Skills Gained: Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning
