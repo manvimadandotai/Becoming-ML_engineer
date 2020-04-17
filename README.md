@@ -5,8 +5,9 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 The learnings from each day have been documented here: https://www.instagram.com/ml.newzealand/
 
 # Books
-Statistical Learning : [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
-
+Statistical Learning 
+* Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+* Concepts Applied: [Practice Code]()
 # Courses Taken
 Machine Learning 
 * Course: [Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
