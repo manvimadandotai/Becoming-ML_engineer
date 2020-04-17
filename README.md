@@ -8,4 +8,6 @@ The learnings from each day have been documented here: https://www.instagram.com
 Statistical Learning : [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
 # Courses Taken
-Machine Learning by Standford University : https://www.coursera.org/learn/machine-learning
+Machine Learning 
+* Course: [Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
+* Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Machine_Learning-Stanford-)
