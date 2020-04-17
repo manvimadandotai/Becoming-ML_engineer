@@ -2,7 +2,7 @@
 This repository documents my journey to become a Machine Learning Engineer. It contains the list of projects undertaken, books read, courses pursued and almost everything I did in the process. So follow along or diverge to you own path, each way, I believe this will add value to any data professional / enthusiast.
 
 # Projects Undertaken
-
+* Finding Patterns in chaos - Determining items that sell together using [Market Basket Analysis](https://github.com/manvimadan12/Market-Basket-Analysis) 
 
 # 100daysofmlcode
 They say that the process has to be more fun than the journey. So, I decided to dicument everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
