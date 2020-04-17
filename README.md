@@ -5,7 +5,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 
 
 # 100daysofmlcode
-The learnings from each day have been documented here: https://www.instagram.com/ml.newzealand/
+They say that the process has to be more fun than the journey, so I decided to dicument everything while having all that fun, here: https://www.instagram.com/ml.newzealand/
 
 # Books
 Statistical Learning 
