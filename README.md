@@ -7,7 +7,8 @@ The learnings from each day have been documented here: https://www.instagram.com
 # Books
 Statistical Learning 
 * Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
-* Concepts Applied: [Practice Code]()
+* Concepts Applied: [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
+
 # Courses Taken
 Machine Learning 
 * Course: [Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
