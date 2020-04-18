@@ -3,7 +3,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 
 # Projects Undertaken
 * Finding Patterns in chaos - Determining items that sell together using [Market Basket Analysis](https://github.com/manvimadan12/Market-Basket-Analysis) 
-* Customer Churn Prediction - Predicting the customers that are prone to leave us from those that are loyal in [Customer Churn Prediction](https://github.com/manvimadan12/Customer-Churn-Prediction)
+* Predicting the customers that are prone to leave us from those that are loyal - [Customer Churn Prediction](https://github.com/manvimadan12/Customer-Churn-Prediction)
 *
 # 100daysofmlcode
 They say that the process has to be more fun than the journey. So, I decided to dicument everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
