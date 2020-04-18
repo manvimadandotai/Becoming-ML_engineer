@@ -21,3 +21,8 @@ Machine Learning
 * Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Machine_Learning-Stanford-)
 * Certificate : [Machine Learning - Manvi Madan](https://www.coursera.org/account/accomplishments/records/D3BM9EL7TGT5)
 * Skills Gained: Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning
+
+Mathematics for Machine Learning
+
+
+Deep Learning Specialization
