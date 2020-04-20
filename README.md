@@ -22,7 +22,8 @@ Machine Learning
 * Certificate : [Machine Learning - Manvi Madan](https://www.coursera.org/account/accomplishments/records/D3BM9EL7TGT5)
 * Skills Gained: Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning
 
-Mathematics for Machine Learning
+Mathematics for Machine Learning Specialization
+* Course: [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 
 Deep Learning Specialization
