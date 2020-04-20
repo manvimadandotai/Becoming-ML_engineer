@@ -4,7 +4,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 # Projects Undertaken
 * Finding Patterns in chaos - Determining items that sell together using [Market Basket Analysis](https://github.com/manvimadan12/Market-Basket-Analysis) 
 * Predicting the customers that are prone to leave us from those that are loyal - [Customer Churn Prediction](https://github.com/manvimadan12/Customer-Churn-Prediction)
-
+* Is that msuhroom safe to eat? - [Mushroom Classification](https://github.com/manvimadan12/Mushroom-Classification)
 * Optimising our ad selection strategy using Reinforcement Learning - [Ads Optimisation](https://github.com/manvimadan12/Ads-Optimisation)
 
 # 100daysofmlcode
@@ -24,6 +24,7 @@ Machine Learning
 
 Mathematics for Machine Learning Specialization
 * Course: [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+* Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
 
 
 Deep Learning Specialization
