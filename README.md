@@ -7,6 +7,9 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Using Natural language Processing to classify restaurant reviews - [NLP](https://github.com/manvimadan12/NLP) 
 * Determining items that sell together using - [Apriori](https://github.com/manvimadan12/Apriori-)
 * Is that mushroom safe to eat? - [Mushroom Classification](https://github.com/manvimadan12/Mushroom-Classification)
+* How to know low-value customers from high value customers? [Customer Segmentation using Unsupervised Learning](https://github.com/manvimadan12/Mall-Customer-Segmentation)
+* Do you see those little sponsored ads that you see on Facebook? Can we predict if a sale will go through when a potential customer sees that ad? Apprently, yes - [Predicting sale from social media ads](https://github.com/manvimadan12/Predicting-sale-from-social-media-ads-) 
+* A new employee is joing us, how do we decide her pay such that we ensure that there is no pay parity based on her gender? Simple, take help from an algorithm and then decide - [What should we pay her?](https://github.com/manvimadan12/What-should-we-pay-her-)
 * Optimising our ad selection strategy using Reinforcement Learning - [Ads Optimisation](https://github.com/manvimadan12/Ads-Optimisation)
 
 # 100daysofmlcode
