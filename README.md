@@ -2,9 +2,11 @@
 This repository documents my journey to become a Machine Learning Engineer. It contains the list of projects undertaken, books read, courses pursued and almost everything I did in the process. So follow along or diverge to you own path, each way, I believe this will add value to any data professional / enthusiast.
 
 # Projects Undertaken
-* Finding Patterns in chaos - Determining items that sell together using [Market Basket Analysis](https://github.com/manvimadan12/Market-Basket-Analysis) 
+* Finding Patterns in chaos - [Market Basket Analysis](https://github.com/manvimadan12/Market-Basket-Analysis) 
 * Predicting the customers that are prone to leave us from those that are loyal - [Customer Churn Prediction](https://github.com/manvimadan12/Customer-Churn-Prediction)
-* Is that msuhroom safe to eat? - [Mushroom Classification](https://github.com/manvimadan12/Mushroom-Classification)
+* Using Natural language Processing to classify restaurant reviews - [NLP](https://github.com/manvimadan12/NLP) 
+* Determining items that sell together using - [Apriori](https://github.com/manvimadan12/Apriori-)
+* Is that mushroom safe to eat? - [Mushroom Classification](https://github.com/manvimadan12/Mushroom-Classification)
 * Optimising our ad selection strategy using Reinforcement Learning - [Ads Optimisation](https://github.com/manvimadan12/Ads-Optimisation)
 
 # 100daysofmlcode
