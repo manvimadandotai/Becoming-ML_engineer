@@ -1,7 +1,7 @@
 # Becoming-ML_engineer
 This repository documents my journey to become a Machine Learning Engineer. It contains the list of projects undertaken, books read, courses pursued and almost everything I did in the process. So follow along or diverge to you own path, each way, I believe this will add value to any data professional / enthusiast.
 
-# Projects Undertaken
+# Projects 
 * Finding Patterns in chaos - [Market Basket Analysis](https://github.com/manvimadan12/Market-Basket-Analysis) 
 * Predicting the customers that are prone to leave us from those that are loyal - [Customer Churn Prediction](https://github.com/manvimadan12/Customer-Churn-Prediction)
 * Using Natural language Processing to classify restaurant reviews - [NLP](https://github.com/manvimadan12/NLP) 
@@ -17,7 +17,10 @@ Statistical Learning
 * Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 * Concepts Applied: [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
 
-# Courses Taken
+# Research Papers
+I maintain a repository of research papers that I am reading during my journey and you can access those paper here for your reference: [ML Research Papers](https://github.com/manvimadan12/ML-Research-Papers-)
+
+# Courses 
 Machine Learning 
 * Course: [Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
 * Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Machine_Learning-Stanford-)
