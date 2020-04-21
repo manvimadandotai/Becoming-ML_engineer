@@ -30,3 +30,7 @@ Mathematics for Machine Learning Specialization
 
 
 Deep Learning Specialization
+* Course: [Neural Networks and Deep Learning]()
+* Assignments Undertaken: 
+* Certificate: [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/NVFDF2CLGEDV)
+* Skills Gained: 
