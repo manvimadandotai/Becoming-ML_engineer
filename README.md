@@ -13,7 +13,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Optimising our ad selection strategy using Reinforcement Learning - [Ads Optimisation](https://github.com/manvimadan12/Ads-Optimisation)
 
 # 100daysofmlcode
-They say that the process has to be more fun than the journey. So, I decided to dicument everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
+They say that the process has to be more fun than the journey. So, I decided to document everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
 
 # Books
 Statistical Learning 
