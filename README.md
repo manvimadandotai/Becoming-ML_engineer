@@ -11,6 +11,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Do you see those little sponsored ads that you see on Facebook? Can we predict if a sale will go through when a potential customer sees that ad? Apprently, yes - [Predicting sale from social media ads](https://github.com/manvimadan12/Predicting-sale-from-social-media-ads-) 
 * A new employee is joing us, how do we decide her pay such that we ensure that there is no pay parity based on her gender? Simple, take help from an algorithm and then decide - [What should we pay her?](https://github.com/manvimadan12/What-should-we-pay-her-)
 * Optimising our ad selection strategy using Reinforcement Learning - [Ads Optimisation](https://github.com/manvimadan12/Ads-Optimisation)
+* Churn Modelling using Deep Learning - [Artificial Neural Network](https://github.com/manvimadan12/ANN)  
 
 # 100daysofmlcode
 They say that the process has to be more fun than the journey. So, I decided to document everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
