@@ -13,7 +13,8 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Optimising our ad selection strategy using Reinforcement Learning - [Ads Optimisation](https://github.com/manvimadan12/Ads-Optimisation)
 * Churn Modelling using Deep Learning - [Artificial Neural Network](https://github.com/manvimadan12/ANN)  
 * If you were an investor, could you predict if your investment in a startup would pay off? - [Predicting profits for statups](https://github.com/manvimadan12/Predicting_Profits_for_startups)
-* 
+ 
+
 # 100daysofmlcode
 They say that the process has to be more fun than the journey. So, I decided to document everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
 
@@ -21,6 +22,7 @@ They say that the process has to be more fun than the journey. So, I decided to 
 Statistical Learning 
 * Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 * Concepts Applied: [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
+
 
 # Research Papers
 I maintain a repository of research papers that I am reading during my journey and you can access those paper here for your reference: [ML Research Papers](https://github.com/manvimadan12/ML-Research-Papers-)
