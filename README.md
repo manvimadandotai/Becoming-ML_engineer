@@ -40,6 +40,12 @@ Mathematics for Machine Learning Specialization
 * Certificate : [Mathematics for Machine Learning:Linear Algebra - Manvi Madan](https://www.coursera.org/account/accomplishments/records/XXSATB4VXR4D)
 * Skills Gained: Linear Algebra , Transformation Matrix,  Eigenvalues and Eigenvectors
 
+In Progess
+* Course: [Multivariate Calculus]()
+* ASsignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
+* Certificate : 
+* Skills Gained : 
+
 
 Deep Learning Specialization
 * Course: [Neural Networks and Deep Learning]()
