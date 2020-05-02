@@ -28,6 +28,9 @@ Statistical Learning
 # Research Papers
 I maintain a repository of research papers that I am reading during my journey and you can access those paper here for your reference: [ML Research Papers](https://github.com/manvimadan12/ML-Research-Papers-)
 
+Here are the titles of some of them:
+* Efficient BackProp - [Link](https://github.com/manvimadan12/ML-Research-Papers-/tree/master/Deep%20Learning)
+
 # Courses 
 Machine Learning 
 * Course: [Machine Learning by Stanford](https://www.coursera.org/learn/machine-learning)
