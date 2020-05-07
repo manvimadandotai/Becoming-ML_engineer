@@ -13,7 +13,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Optimising our ad selection strategy using Reinforcement Learning - [Ads Optimisation](https://github.com/manvimadan12/Ads-Optimisation)
 * Churn Modelling using Deep Learning - [Artificial Neural Network](https://github.com/manvimadan12/ANN)  
 * If you were an investor, could you predict if your investment in a startup would pay off? - [Predicting profits for statups](https://github.com/manvimadan12/Predicting_Profits_for_startups)
-* Does Mean Arterial Pressure (MAP) has predictive power in determining mortality in ICU patients? - [Predicting mortality using MAP i eICU dataset]()
+* Does Mean Arterial Pressure (MAP) has predictive power in determining mortality in ICU patients? - [Predicting mortality using MAP i eICU dataset](https://github.com/manvimadan12/Predicting_Mortality_using_BP_in_eICU_dataset)
 * Do you want to want to watch anime based on the recommendation of an ML agent? - [Anime Recommendation System]()
  
 
