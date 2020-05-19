@@ -34,6 +34,7 @@ I maintain a repository of research papers that I am reading during my journey a
 
 Here are the titles of some of them:
 * Efficient BackProp - [Link](https://github.com/manvimadan12/ML-Research-Papers-/tree/master/Deep%20Learning)
+* Self-Organising-Maps - [Link](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Deep%20Learning/SOM/1990-Kohonen-PIEEE.pdf)
 
 # Courses 
 Machine Learning 
