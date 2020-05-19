@@ -17,7 +17,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Do you want to want to watch anime based on the recommendation of an ML agent? - [Anime Recommendation System]()
 
 # Hackathons/ Datathons
-* MIT COVID 19 DATATHON - Winners (Top 3 out of 420 teams)
+* MIT COVID 19 DATATHON - Winners 
 Winning Entry - [Reopening of super spreader businesses and risk of COVID 19 transmission](https://github.com/garbamoussa/Reopening-of-super-spreader-businesses-and-risk-of-COVID-19-transmission-)
 
 # 100daysofmlcode
