@@ -63,7 +63,7 @@ In Progress
 * Course: [Multivariate Calculus]()
 * ASsignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
 * Certificate : [Link](https://www.coursera.org/account/accomplishments/records/RRUN7CHZAR95)
-* Skills Gained : 
+* Skills Gained : Dimensionality Reduction, Python Programming, Linear Algebra
 
 Deep Learning Specialization
 * Course: [Neural Networks and Deep Learning]()
