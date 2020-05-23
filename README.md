@@ -59,10 +59,9 @@ Mathematics for Machine Learning Specialization
 * Skills Gained : Linear Regression, Vector Calculus, Multivariate Calculus, Gradiet Descent
 
 
-In Progress
-3.Course: [PCA](https://www.coursera.org/learn/pca-machine-learning)
+3.Course [In Progress]: [PCA](https://www.coursera.org/learn/pca-machine-learning)
 * ASsignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
-* Certificate : [Link](https://www.coursera.org/account/accomplishments/records/RRUN7CHZAR95)
+* Certificate : 
 * Skills Gained : Dimensionality Reduction, Python Programming, Linear Algebra
 
 Deep Learning Specialization
