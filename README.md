@@ -54,13 +54,13 @@ Mathematics for Machine Learning Specialization
 
 
 2. Course: [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) 
-* ASsignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
+* Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
 * Certificate : [Link](https://www.coursera.org/account/accomplishments/records/RRUN7CHZAR95)
 * Skills Gained : Linear Regression, Vector Calculus, Multivariate Calculus, Gradiet Descent
 
 
 3.Course [In Progress]: [PCA](https://www.coursera.org/learn/pca-machine-learning)
-* ASsignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
+* Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
 * Certificate : 
 * Skills Gained : Dimensionality Reduction, Python Programming, Linear Algebra
 
