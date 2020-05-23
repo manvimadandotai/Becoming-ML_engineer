@@ -60,7 +60,7 @@ Mathematics for Machine Learning Specialization
 
 
 In Progress
-* Course: [Multivariate Calculus]()
+* Course: [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
 * ASsignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
 * Certificate : [Link](https://www.coursera.org/account/accomplishments/records/RRUN7CHZAR95)
 * Skills Gained : Dimensionality Reduction, Python Programming, Linear Algebra
