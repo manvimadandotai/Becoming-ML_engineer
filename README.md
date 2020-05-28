@@ -15,6 +15,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * If you were an investor, could you predict if your investment in a startup would pay off? - [Predicting profits for statups](https://github.com/manvimadan12/Predicting_Profits_for_startups)
 * Does Mean Arterial Pressure (MAP) has predictive power in determining mortality in ICU patients? - [Predicting mortality using MAP in eICU dataset](https://github.com/manvimadan12/Predicting_Mortality_using_BP_in_eICU_dataset)
 * How would you identify credit card applicants who got their applications approved by commiting fraud? - [Fraud Detection using SOMs](https://github.com/manvimadan12/Fraud-detection)
+* Have you heard of using ML for Stock Prediction? - [Stock Prediction - LSTM]()
 * Do you want to want to watch anime based on the recommendation of an ML agent? - [Anime Recommendation System](https://github.com/manvimadan12/Anime-Recommendation-System)
 
 # Hackathons/ Datathons
