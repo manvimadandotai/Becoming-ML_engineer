@@ -16,7 +16,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Does Mean Arterial Pressure (MAP) has predictive power in determining mortality in ICU patients? - [Predicting mortality using MAP in eICU dataset](https://github.com/manvimadan12/Predicting_Mortality_using_BP_in_eICU_dataset)
 * How would you identify credit card applicants who got their applications approved by commiting fraud? - [Fraud Detection using SOMs](https://github.com/manvimadan12/Fraud-detection)
 * Have you heard of using ML for Stock Prediction? - [Stock Prediction - LSTM](https://github.com/manvimadan12/Stock-Price-Prediction)
-* Movie REcommendation System - [RBM]
+* Movie Recommendation System - [RBM](https://github.com/manvimadan12/RBM)
 * Do you want to want to watch anime based on the recommendation of an ML agent? - [Anime Recommendation System](https://github.com/manvimadan12/Anime-Recommendation-System)
 
 # Hackathons/ Datathons
