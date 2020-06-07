@@ -63,7 +63,7 @@ Mathematics for Machine Learning Specialization
 
 3.Course [In Progress]: [PCA](https://www.coursera.org/learn/pca-machine-learning)
 * Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
-* Certificate :[Link] (https://www.coursera.org/account/accomplishments/records/S2F5JMDBZY2Q)
+* Certificate : [Link](https://www.coursera.org/account/accomplishments/records/S2F5JMDBZY2Q)
 * Skills Gained : Dimensionality Reduction, Python Programming, Linear Algebra
 
 Deep Learning Specialization
