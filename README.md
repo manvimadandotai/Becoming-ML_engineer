@@ -69,5 +69,5 @@ Mathematics for Machine Learning Specialization
 Deep Learning Specialization
 * Course: [Neural Networks and Deep Learning]()
 * Assignments Undertaken: [Neural Networks and Deep Learning assignments](https://github.com/manvimadan12/Deep_Learning_Specialization)
-* Certificate: [Link] (https://www.coursera.org/account/accomplishments/records/NVFDF2CLGEDV)
+* Certificate: [Link](https://www.coursera.org/account/accomplishments/records/NVFDF2CLGEDV)
 * Skills Gained: Deep Learning, Neural Networks, Shallow Neural Networks, Deep Neural Networks
