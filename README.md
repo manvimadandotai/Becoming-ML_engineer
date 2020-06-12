@@ -22,6 +22,8 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 # Hackathons/ Datathons
 * MIT COVID 19 DATATHON - Winners 
 Winning Entry - [Reopening of super spreader businesses and risk of COVID 19 transmission](https://github.com/garbamoussa/Reopening-of-super-spreader-businesses-and-risk-of-COVID-19-transmission-)
+The pre-print from the research findings of this project can be found here: [Super spreader businesses and Risk of COVID-19 Transmission](https://www.medrxiv.org/content/10.1101/2020.05.24.20112110v3)
+
 * Hack Aotearoa - (Top 10)
 Github Repo - [Importance of MAP in predicting mortality](https://github.com/manvimadan12/Importance-of-MAP-in-predicting-mortality-)
 
