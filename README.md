@@ -17,6 +17,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * How would you identify credit card applicants who got their applications approved by commiting fraud? - [Fraud Detection using SOMs](https://github.com/manvimadan12/Fraud-detection)
 * Have you heard of using ML for Stock Prediction? - [Stock Prediction - LSTM](https://github.com/manvimadan12/Stock-Price-Prediction)
 * Movie Recommendation System - [RBM](https://github.com/manvimadan12/RBM)
+* Movie REcommendation System using Autoencoders - [Autoencoder]()
 * Do you want to want to watch anime based on the recommendation of an ML agent? - [Anime Recommendation System](https://github.com/manvimadan12/Anime-Recommendation-System)
 
 # Hackathons/ Datathons
