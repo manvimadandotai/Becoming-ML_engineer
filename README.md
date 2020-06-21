@@ -19,7 +19,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Movie Recommendation System - [RBM](https://github.com/manvimadan12/RBM)
 * Movie Recommendation System using Autoencoders - [Autoencoder](https://github.com/manvimadan12/Autoencoder)
 * Do you want to want to watch anime based on the recommendation of an ML agent? - [Anime Recommendation System](https://github.com/manvimadan12/Anime-Recommendation-System)
-* Would you like to try a workout where a machine learning algorithm would tell you are working out correctly?- [Implementation of Research Paper titled "Qualitative activity recognition of weight lifting exercises"]()
+* Would you like to try a workout where a machine learning algorithm would tell you are working out correctly?- [Implementation of Research Paper titled "Qualitative activity recognition of weight lifting exercises"](https://github.com/manvimadan12/workout-training-using-ml)
 
 # Hackathons/ Datathons
 * MIT COVID 19 DATATHON - Winners 
