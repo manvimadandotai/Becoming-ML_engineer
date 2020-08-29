@@ -78,3 +78,6 @@ Deep Learning Specialization
 * Skills Gained: Deep Learning, Neural Networks, Shallow Neural Networks, Deep Neural Networks
 
 NLP Specialization
+
+# Interesting Blog Posts
+* An Overview of Deep Learning - [Link](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
