@@ -39,7 +39,7 @@ Statistical Learning
 * Concepts Applied: [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
 
 Deep Learning
-* Book: [Deep Learning with Python]()
+* Book: [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)
 * Concepts Applied: [GitHub Repository](https://github.com/manvimadan12/deep-learning-with-python-notebooks)
 
 
