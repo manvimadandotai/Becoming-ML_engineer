@@ -38,6 +38,10 @@ Statistical Learning
 * Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 * Concepts Applied: [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
 
+Deep Learning
+* Book: [Deep Learning with Python]()
+* Concepts Applied: [GitHub Repository](https://github.com/manvimadan12/deep-learning-with-python-notebooks)
+
 
 # Research Papers
 I maintain a repository of research papers that I am reading during my journey and you can access those paper here for your reference: [ML Research Papers](https://github.com/manvimadan12/ML-Research-Papers-)
