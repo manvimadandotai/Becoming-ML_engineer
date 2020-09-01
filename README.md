@@ -86,3 +86,4 @@ NLP Specialization
 # Interesting Blog Posts
 * An Overview of Deep Learning - [Link](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 * Types of Neural Networks - [Link](https://medium.com/towards-artificial-intelligence/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e)
+* Understanding activation function in Neural Networks - [Link](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
