@@ -57,7 +57,7 @@ Machine Learning
 * Certificate : [Machine Learning - Manvi Madan](https://www.coursera.org/account/accomplishments/records/D3BM9EL7TGT5)
 * Skills Gained: Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning
 
-Mathematics for Machine Learning Specialization
+Mathematics for Machine Learning Specialization - [Certificate](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-/blob/master/Coursera%20TPE93VSDYDWE.pdf)
 1. Course: [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 * Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
 * Certificate : [Mathematics for Machine Learning:Linear Algebra - Manvi Madan](https://www.coursera.org/account/accomplishments/records/XXSATB4VXR4D)
@@ -70,7 +70,7 @@ Mathematics for Machine Learning Specialization
 * Skills Gained : Linear Regression, Vector Calculus, Multivariate Calculus, Gradiet Descent
 
 
-3.Course [In Progress]: [PCA](https://www.coursera.org/learn/pca-machine-learning)
+3.Course: [PCA](https://www.coursera.org/learn/pca-machine-learning)
 * Assignments undertaken : [Github Repository](https://github.com/manvimadan12/Mathematics-for-Machine-Learning-)
 * Certificate : [Link](https://www.coursera.org/account/accomplishments/records/S2F5JMDBZY2Q)
 * Skills Gained : Dimensionality Reduction, Python Programming, Linear Algebra
