@@ -78,7 +78,7 @@ Mathematics for Machine Learning Specialization - [Certificate](https://github.c
 * Skills Gained : Dimensionality Reduction, Python Programming, Linear Algebra
 
 Deep Learning Specialization
-* Course: [Neural Networks and Deep Learning]()
+* Course: [Neural Networks and Deep Learning](https://www.deeplearning.ai/deep-learning-specialization/)
 * Assignments Undertaken: [Neural Networks and Deep Learning assignments](https://github.com/manvimadan12/Deep_Learning_Specialization)
 * Certificate: [Link](https://www.coursera.org/account/accomplishments/records/NVFDF2CLGEDV)
 * Skills Gained: Deep Learning, Neural Networks, Shallow Neural Networks, Deep Neural Networks
