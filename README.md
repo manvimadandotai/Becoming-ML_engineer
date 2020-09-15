@@ -36,6 +36,8 @@ Github Repo - [Importance of MAP in predicting mortality](https://github.com/man
 # 100daysofmlcode
 They say that the process has to be more fun than the journey. So, I decided to document everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
 
+# 100daysofdeeplearning
+
 # Books
 Statistical Learning 
 * Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
