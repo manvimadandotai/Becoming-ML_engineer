@@ -37,6 +37,8 @@ Github Repo - [Importance of MAP in predicting mortality](https://github.com/man
 They say that the process has to be more fun than the journey. So, I decided to document everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
 
 # 100daysofdeeplearning
+I dedicated 100 days exploring deep learning through mini-projects, research papers, books and shared my everyday learnings with the community.
+
 
 # Books
 Statistical Learning 
