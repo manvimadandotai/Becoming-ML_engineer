@@ -21,6 +21,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Do you want to want to watch anime based on the recommendation of an ML agent? - [Anime Recommendation System](https://github.com/manvimadan12/Anime-Recommendation-System)
 * Would you like to try a workout where a machine learning algorithm would tell you are working out correctly?- [Implementation of Research Paper titled "Qualitative activity recognition of weight lifting exercises"](https://github.com/manvimadan12/workout-training-using-ml)
 * The "Hello World" of Deep Learning - [Handwritten Digit Identification](https://github.com/manvimadan12/Handwritten-Digit-Detection)
+* Did you like that movie ? 
 
 # Hackathons/ Datathons
 * MIT COVID 19 DATATHON - Winners 
