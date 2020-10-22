@@ -98,3 +98,4 @@ NLP Specialization
 * Types of Neural Networks - [Link](https://medium.com/towards-artificial-intelligence/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e)
 * Understanding activation function in Neural Networks - [Link](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 * Optimizing Gradient Descent -[Link](https://ruder.io/optimizing-gradient-descent/)
+* Everything you need to know about Computer Vision - [Link](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
