@@ -99,3 +99,4 @@ NLP Specialization
 * Understanding activation function in Neural Networks - [Link](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 * Optimizing Gradient Descent -[Link](https://ruder.io/optimizing-gradient-descent/)
 * Everything you need to know about Computer Vision - [Link](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
+* Viola Jones Algorithm for face detection - [Link](https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999)
