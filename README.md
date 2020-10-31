@@ -45,12 +45,12 @@ I dedicated 100 days exploring deep learning through mini-projects, research pap
 
 # Books
 Statistical Learning 
-* Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
-* Concepts Applied: [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
+* [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+  [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
 
 Deep Learning
-* Book: [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)
-* Concepts Applied: [GitHub Repository](https://github.com/manvimadan12/deep-learning-with-python-notebooks)
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)
+  [Practice Code](https://github.com/manvimadan12/deep-learning-with-python-notebooks)
 
 
 # Research Papers
