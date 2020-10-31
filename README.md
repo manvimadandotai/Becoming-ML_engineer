@@ -51,6 +51,9 @@ Statistical Learning
 Deep Learning
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)
   [Practice Code](https://github.com/manvimadan12/deep-learning-with-python-notebooks)
+  
+* [Deep Learning by Ian Goodfellow and Yoshua Benjio and Aaron Cornville](https://www.deeplearningbook.org)
+
 
 
 # Research Papers
