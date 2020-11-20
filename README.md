@@ -62,6 +62,9 @@ I maintain a repository of research papers that I am reading during my journey a
 Here are the titles of some of them:
 * Efficient BackProp - [Link](https://github.com/manvimadan12/ML-Research-Papers-/tree/master/Deep%20Learning)
 * Self-Organising-Maps - [Link](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Deep%20Learning/SOM/1990-Kohonen-PIEEE.pdf)
+* SSD -[Link](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/1512.02325.pdf)
+* [Viola Jones](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/Rapid%20Object%20Detection.pdf)
+* [GANs](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/GANs.pdf)
 
 # Courses 
 Machine Learning 
