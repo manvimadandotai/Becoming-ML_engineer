@@ -109,3 +109,4 @@ NLP Specialization
 * OpenCV3 Object Detection - [Link](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php)
 * SSD - [Link](https://jonathan-hui.medium.com/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
 * Restricted Boltzmann Machines - [Link](https://towardsdatascience.com/restricted-boltzmann-machines-simplified-eab1e5878976)
+* RBM - [Link](https://medium.com/datadriveninvestor/deep-learning-restricted-boltzmann-machine-b76241af7a92)
