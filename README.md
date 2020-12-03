@@ -112,3 +112,4 @@ NLP Specialization
 * RBM - [Link](https://medium.com/datadriveninvestor/deep-learning-restricted-boltzmann-machine-b76241af7a92)
 * RNN - [Link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * Benjamin , movie wrote by AI - [Link](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
+* Explainable AI - [Link](https://www.zdnet.com/article/explainable-ai-artificial-intelligence-a-guide-for-making-black-box-machine-learning-models-explainable/)
