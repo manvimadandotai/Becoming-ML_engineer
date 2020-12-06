@@ -24,6 +24,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Did you like that movie ? - [ Movie Review Classification ](https://github.com/manvimadan12/Movie-Review-Classification)
 * Predicting House Prices - [Regression using ANN](https://github.com/manvimadan12/Regression_with_ANN)
 * Classify newswires  - [Single Label multiclass classification](https://github.com/manvimadan12/Newswires-Classification)
+* Face Detection - [OpenCV Face detection](https://github.com/manvimadan12/Computer_Vision_Roadmap)
 
 # Hackathons/ Datathons
 * MIT COVID 19 DATATHON - Winners 
