@@ -47,6 +47,11 @@ I dedicated 100 days exploring deep learning through mini-projects, research pap
 
 
 # Books
+
+Mathematics
+[Algebra, calculus](http://www.mathsbooks.net/Cambridge%202%20Unit%20Year%2011/2U_Maths11_unlocked.pdf)
+
+
 Statistical Learning 
 * [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
   [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
