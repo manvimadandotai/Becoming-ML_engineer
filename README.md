@@ -49,7 +49,7 @@ I dedicated 100 days exploring deep learning through mini-projects, research pap
 # Books
 
 Mathematics
-[Algebra, calculus](http://www.mathsbooks.net/Cambridge%202%20Unit%20Year%2011/2U_Maths11_unlocked.pdf)
+* [Algebra, calculus](http://www.mathsbooks.net/Cambridge%202%20Unit%20Year%2011/2U_Maths11_unlocked.pdf)
 
 
 Statistical Learning 
