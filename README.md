@@ -40,7 +40,7 @@ THe articles featured in media from these researrch findings can be found here: 
 Github Repo - [Importance of MAP in predicting mortality](https://github.com/manvimadan12/Importance-of-MAP-in-predicting-mortality-)
 
 # 100daysofmlcode
-They say that the process has to be more fun than the journey. So, I decided to document everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@ml.newzealand](https://www.instagram.com/ml.newzealand/)
+They say that the process has to be more fun than the journey. So, I decided to document everything while having all that fun. Find my learning from each day when I took #100daysofmlcode challenge here: [@manvimadan.ai](https://www.instagram.com/manvimadan.ai/)
 
 # 100daysofdeeplearning
 I dedicated 100 days exploring deep learning through mini-projects, research papers, books and shared my everyday learnings with the community.
