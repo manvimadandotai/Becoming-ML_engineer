@@ -54,7 +54,7 @@ Mathematics
 
 
 Statistical Learning 
-* [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+* [An Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
   [Practice Code](https://github.com/manvimadan12/Statistical-Learning)
 
 Deep Learning
