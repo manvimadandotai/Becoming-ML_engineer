@@ -108,7 +108,9 @@ Deep Learning Specialization
 
 NLP Specialization
 * Course: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
-* 
+* Assignments Undertaken:
+* Certificate:
+* Skills Gained:
 
 Applied AI Course
 --TO DO: Add course details and github repository link here
