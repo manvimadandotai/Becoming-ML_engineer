@@ -107,7 +107,8 @@ Deep Learning Specialization
 * Skills Gained: Deep Learning, Neural Networks, Shallow Neural Networks, Deep Neural Networks
 
 NLP Specialization
--- TO DO: Add course details here
+* Course: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+* 
 
 Applied AI Course
 --TO DO: Add course details and github repository link here
