@@ -111,8 +111,10 @@ NLP Specialization
 * Certificate:[Link](https://www.coursera.org/account/accomplishments/certificate/ACBDS2CTNCMU)
 * Skills Gained: Machine Translation, Word Embeddings, Locality Sensitive Hashing, Sentiment Analysis, Vector Space Models
 
-Applied AI Course
---TO DO: Add course details and github repository link here
+Applied AI Course [IN PROGRESS]
+* Course: [Applied AI Course](https://www.appliedaicourse.com)
+* Course notes: [Link](https://github.com/manvimadandotai/Applied-AI-course/tree/main/Course%20Notes)
+* Code Repository: [Link](https://github.com/manvimadandotai/Applied-AI-course)
 
 # Interesting Blog Posts
 * An Overview of Deep Learning - [Link](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
