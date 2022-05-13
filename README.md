@@ -28,7 +28,7 @@ This repository documents my journey to become a Machine Learning Engineer. It c
 * Object Detection - [Real time object detection](https://github.com/manvimadan12/Computer_Vision_Roadmap)
 * General Adversarial Network - [DCGANs](https://github.com/manvimadan12/Computer_Vision_Roadmap)
 
-# Open Source Contributions
+# ML Research Contributions
 * ML Research to identify pregnancy complications using Computer Vision - [3DHistologicalReconstruction](https://github.com/VirtualPregnancy/3DHistologicalReconstruction)
 
 
