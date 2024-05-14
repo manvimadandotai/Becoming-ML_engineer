@@ -55,6 +55,7 @@ I dedicated 100 days exploring deep learning through mini-projects, research pap
 
 Mathematics
 * [Algebra, calculus](http://www.mathsbooks.net/Cambridge%202%20Unit%20Year%2011/2U_Maths11_unlocked.pdf)
+* [Algorithms - 4th Edition](https://algs4.cs.princeton.edu/home/)
 
 
 Statistical Learning 
@@ -115,10 +116,13 @@ NLP Specialization
 * Certificate:[Link](https://www.coursera.org/account/accomplishments/certificate/ACBDS2CTNCMU)
 * Skills Gained: Machine Translation, Word Embeddings, Locality Sensitive Hashing, Sentiment Analysis, Vector Space Models
 
-Applied AI Course [IN PROGRESS]
-* Course: [Applied AI Course](https://www.appliedaicourse.com)
-* Course notes: [Link](https://github.com/manvimadandotai/Applied-AI-course/tree/main/Course%20Notes)
-* Code Repository: [Link](https://github.com/manvimadandotai/Applied-AI-course)
+Algorithms [IN PROGRESS]
+* Course: [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+
+Responsible AI [IN PROGRESS] 
+* Course: [Responsible AI - Principles and Ethical Considferations](https://www.coursera.org/learn/principles-ethical-considerations-responsible-ai/home/welcome)
+
+
 
 # Interesting Blog Posts
 * An Overview of Deep Learning - [Link](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
