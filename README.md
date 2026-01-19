@@ -2,6 +2,7 @@
 This repository documents my journey to become a Machine Learning Engineer. It contains the list of projects undertaken, books read, courses pursued and almost everything I did in the process. So follow along or diverge to you own path, either way, I believe this will add value to any data professional / enthusiast.
 
 # Projects 
+* Completing Data Quality assessments and checks - [DataQualityAssessments](https://github.com/manvimadandotai/DataQualityAssessments)
 * Finding Patterns in chaos - [Market Basket Analysis](https://github.com/manvimadan12/Market-Basket-Analysis) 
 * Predicting the customers that are prone to leave us from those that are loyal - [Customer Churn Prediction](https://github.com/manvimadan12/Customer-Churn-Prediction)
 * Using Natural language Processing to classify restaurant reviews - [NLP](https://github.com/manvimadan12/NLP) 
