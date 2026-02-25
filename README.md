@@ -51,6 +51,8 @@ They say that the process has to be more fun than the journey. So, I decided to 
 # 100daysofdeeplearning
 I dedicated 100 days exploring deep learning through mini-projects, research papers, books and shared my everyday learnings with the community.
 
+# Python Clean Code CheatSheet
+CheatSheet - [PythonCleanCode](https://github.com/manvimadandotai/CodingThings/tree/main/PythonThings/PythonCleanCode)
 
 # Books
 
